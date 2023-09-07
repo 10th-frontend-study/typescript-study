@@ -1,7 +1,7 @@
 # TypeScript 부수기 🐋
 
 <p align="center">
-<img src="./images/ts_image.png" width="80%" alt="typescript-study" />
+<img src="./resources/ts_image.png" width="80%" alt="typescript-study" />
 </p>
 
 ## 🐢 스터디 멤버
